@@ -22,7 +22,6 @@
       <!-- <Keywords name="Operators1">+ - * / % &amp;&amp; || ! == != &lt; &gt; &lt;= &gt;= : ? { } = =&gt; [ ] ( ) . , ... ${ %{ ~ ^ ; |</Keywords> -->
       <!-- <Keywords name="Operators1">+ - * / % &amp;&amp; || ! == != &lt; &gt; &lt;= &gt;= : ? { } = =&gt; [ ] ( ) . , ... ~ ^ ; |</Keywords> -->
       <Keywords name="Operators1">+ - * / % &amp;&amp; || ! == != &lt; &gt; &lt;= &gt;= : ? { } = =&gt; [ ] ( ) . , ... ~ ^ ; | &lt;&lt; &lt;&lt;- ${ %{</Keywords>
-
       <!-- <Keywords name="Operators2"></Keywords> -->
 
       <Keywords name="Folders in code1, open">{</Keywords>
@@ -83,7 +82,7 @@
 
       <!-- Keywords -->
       <WordsStyle name="KEYWORDS1" fgColor="4EC9B0" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
-      <WordsStyle name="KEYWORDS2" fgColor="C586C0" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
+      <WordsStyle name="KEYWORDS2" fgColor="EE8080" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
       
       <!-- <WordsStyle name="KEYWORDS3" fgColor="FF8B47" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" /> -->
       <WordsStyle name="KEYWORDS3" fgColor="1E6DB2" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
@@ -105,8 +104,8 @@
 
       <WordsStyle name="KEYWORDS8" fgColor="B39DDB" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
 
-      <!-- Operators/braces (keep as you like; left as “brace-friendly” bright) -->
-      <WordsStyle name="OPERATORS" fgColor="FFD700" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
+      <!-- Operators/braces -->
+      <WordsStyle name="OPERATORS" fgColor="CDA869" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
 
       <!-- Folding markers -->
       <WordsStyle name="FOLDER IN CODE1" fgColor="808080" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
