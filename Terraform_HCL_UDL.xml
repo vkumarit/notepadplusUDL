@@ -12,10 +12,10 @@
       <Keywords name="Comments">00# 00// 03/* 04*/</Keywords> 
 
       <Keywords name="Numbers, prefix1"></Keywords>
-      <Keywords name="Numbers, prefix2"></Keywords>
-      <Keywords name="Numbers, extras1"></Keywords>
+      <Keywords name="Numbers, prefix2">0x</Keywords>
+      <Keywords name="Numbers, extras1">A B C D E F a b c d e f</Keywords>
       <Keywords name="Numbers, extras2"></Keywords>
-      <Keywords name="Numbers, suffix1"></Keywords>
+      <Keywords name="Numbers, suffix1">s m h d ms</Keywords>
       <Keywords name="Numbers, suffix2"></Keywords>
       <Keywords name="Numbers, range"></Keywords>
 
@@ -79,7 +79,7 @@
       <WordsStyle name="LINE COMMENTS" fgColor="6A9955" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
 
       <!-- Numbers -->
-      <WordsStyle name="NUMBERS" fgColor="B5CEA8" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
+      <WordsStyle name="NUMBERS" fgColor="7AAC18" bgColor="141414" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
 
       <!-- Keywords -->
       <WordsStyle name="KEYWORDS1" fgColor="4EC9B0" bgColor="141414" fontName="Consolas" fontStyle="1" fontSize="10" nesting="0" />
